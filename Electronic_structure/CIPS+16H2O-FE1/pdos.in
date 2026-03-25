@@ -1,0 +1,5 @@
+&projwfc
+ outdir='./'
+ prefix='test'
+ DeltaE=0.015,
+/
