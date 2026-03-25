@@ -1,0 +1,8 @@
+&dos
+ prefix='test'
+ outdir='./'
+ Emin = -36.00,
+ Emax =  36.00,
+ DeltaE = 0.015,
+ fildos = 'dos.dat'
+/
